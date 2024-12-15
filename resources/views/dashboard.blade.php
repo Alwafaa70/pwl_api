@@ -9,9 +9,9 @@
         <div class="max-w-7xl mx-auto sm:px-6 lg:px-8">
             <div class="bg-white dark:bg-gray-800 overflow-hidden shadow-lg sm:rounded-lg border border-gray-200 dark:border-gray-700">
                 <div class="p-6 text-gray-900 dark:text-gray-100 text-center">
-                    <h3 class="text-xl font-bold mb-4">{{ __("Selamat Datang di Sistem Informasi Perpustakaan ALWAFAA") }}</h3>
+                    <h3 class="text-xl font-bold mb-4">{{ __("HAYY!! Selamat Datang di Perpustakaan ALWAFAA") }}</h3>
                     <p class="text-lg">{{ __("Halo, ".Auth()->user()->name."!") }}</p>
-                    <p class="text-sm mt-2 text-gray-500 dark:text-gray-400">Semoga harimu menyenangkan!</p>
+                    <p class="text-sm mt-2 text-gray-500 dark:text-gray-400">Ayoo Pilih Buku Yang Menarik!</p>
                 </div>
             </div>
         </div>
