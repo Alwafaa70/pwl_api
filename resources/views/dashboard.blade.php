@@ -5,7 +5,7 @@
         </h2>
     </x-slot>
 
-    <div class="py-12 bg-gray-100 dark:bg-gray-900">
+    <div class="min-h-screen bg-cover bg-center" style="background-image: url('https://i.pinimg.com/736x/11/09/e8/1109e8e94bcb183d53387b06a619c7c2.jpg');" class="py-12 bg-gray-100 dark:bg-gray-900">
         <div class="max-w-7xl mx-auto sm:px-6 lg:px-8">
             <div class="bg-white dark:bg-gray-800 overflow-hidden shadow-lg sm:rounded-lg border border-gray-200 dark:border-gray-700">
                 <div class="p-6 text-gray-900 dark:text-gray-100 text-center">
